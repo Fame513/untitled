@@ -1,6 +1,6 @@
 
 /**
- * @name untitled
+ * @name Amely
  */
  var half = Math.pow(2, 1/12);
 var a = 440;
